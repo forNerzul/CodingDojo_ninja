@@ -15,3 +15,12 @@ ninja1.showStats();
 - [x] (agrega un método: sayName () - Esto debería registrar el nombre de Ninja en la consola)
 - [x] (agrega un método: showStats () - Esto debería mostrar el nombre, la fuerza, la velocidad y la salud del Ninja.)
 - [x] [agrega un método: drinkSake () - Esto debería agregar +10 de salud al Ninja)
+
+## Super Ninja
+- [x] crear una clase Sensei que hereda de la clase Ninja
+
+- [x] agregar un atributo: sabiduría - predeterminado a 10
+
+- [x] crear un método: speakWisdom ()
+
+- [x] crear un método: drinkSake ()
